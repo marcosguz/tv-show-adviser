@@ -1,7 +1,5 @@
 <h1 align="center">TV Show Adviser App</h1>
 
-
-
 ```javascript
 export function App() {
     const [currentTVShow, setCurrentTVShow] = useState();
