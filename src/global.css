@@ -1,0 +1,24 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    color: #fff;
+    font-family: Maximun Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+::-webkit-scrollbar {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: rgba(0, 0, 0, 0.61);
+    border-radius: 1rem;
+}
