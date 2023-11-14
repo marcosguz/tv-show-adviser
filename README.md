@@ -95,7 +95,7 @@ This application will be contained in an application component or root component
     <tbody width="100%">
         <tr>
             <td rowspan=5 align="rigth">
-                <img src="https://github.com/marcosguz/password-generate/assets/75583218/b78b9c76-248a-4bdc-b7b0-43bbce701e0d" width="100%">
+                <img src="https://github.com/marcosguz/tv-show-adviser/assets/75583218/3f48f3ec-7e93-48e4-8d8a-a2ca0af01ea3" width="100%">
             </td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@ This application will be contained in an application component or root component
     <tbody width="100%">
         <tr>
             <td rowspan=5 align="rigth">
-                <img src="https://github.com/marcosguz/password-generate/assets/75583218/3fe02943-ca32-46c2-ab9c-2439ef9fb08a" width="500px">
+                <img src="https://github.com/marcosguz/tv-show-adviser/assets/75583218/cff6a44b-739e-42a3-a199-7ba8bdddbe0f" width="500px">
             </td>
         </tr>
         <tr>
